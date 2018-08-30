@@ -1,0 +1,9 @@
+#Jukebox {
+	width: 500px;
+	height: 200px;
+	border: 2px solid black;
+}
+
+#addSong {
+	margin-top: 50px;
+}
